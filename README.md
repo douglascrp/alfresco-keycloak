@@ -48,7 +48,7 @@ The configuration of both the Keycloak server and this module offer a large numb
     - [Keycloak Subsystem](./docs/Reference-Repository-Subsystem.md)
     - [Keycloak Adapter](./docs/Reference-Adapter.md)
     - [Extension API](./docs/Reference-Repository-Extension.md)
-- [Share Configuration Reference](./docs/Reference-Repository.md)
+- [Share Configuration Reference](./docs/Reference-Share.md)
 
 # Build
 
